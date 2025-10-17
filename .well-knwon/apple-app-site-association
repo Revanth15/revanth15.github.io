@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "KVT3636L5L.com.revanth.BusSing",
+        "paths": ["/*"]
+      }
+    ]
+  }
+}
